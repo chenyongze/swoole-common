@@ -1,0 +1,55 @@
+receive from 1:fsdf,opcode:1,fin:1
+receive from 1:fsdf,opcode:1,fin:1
+receive from 1:fsdf,opcode:1,fin:1
+receive from 1:fsdf,opcode:1,fin:1
+receive from 1:fdsf,opcode:1,fin:1
+在线人数:1
+receive from 1:fdsf,opcode:1,fin:1
+receive from 2:fdsf,opcode:1,fin:1
+在线人数:1
+receive from 2:fdsf,opcode:1,fin:1
+receive from 3:fsdf,opcode:1,fin:1
+在线人数:1
+receive from 3:fsdf,opcode:1,fin:1
+receive from 4:fdsfds,opcode:1,fin:1
+在线人数:1
+receive from 4:fdsfds,opcode:1,fin:1
+receive from 5:fsdfdsf,opcode:1,fin:1
+在线人数:1
+receive from 5:fsdfdsf,opcode:1,fin:1
+receive from 6:发送到发送到,opcode:1,fin:1
+在线人数:1
+receive from 6:发送到发送到,opcode:1,fin:1
+receive from 7:发的说法,opcode:1,fin:1
+在线人数:2
+receive from 7:发的说法,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 6:,opcode:1,fin:1
+在线人数:2
+receive from 6:,opcode:1,fin:1
+receive from 1:fsdf,opcode:1,fin:1
+在线人数:1
+receive from 1:fsdf,opcode:1,fin:1
+receive from 1:fsdfsd,opcode:1,fin:1
+在线人数:1
+receive from 1:fsdfsd,opcode:1,fin:1
+receive from 1:fsdf,opcode:1,fin:1
+在线人数:1
+receive from 1:fsdf,opcode:1,fin:1
+receive from 4:fsd,opcode:1,fin:1
+在线人数:3
+receive from 4:fsd,opcode:1,fin:1

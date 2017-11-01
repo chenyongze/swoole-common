@@ -6,5 +6,5 @@
  * Time: 下午6:54
  */
 require __DIR__.'/../vendor/autoload.php';
-$websocket = new \Yongze\swoole\WebSocketServer('127.0.0.1', 9505);
+$websocket = new \Yongze\swoole\WebSocketServer();
 echo $websocket->run();
