@@ -1,5 +1,9 @@
 # swoole-common
 
+> composer install
+
+> composer require chenyongze/swoole-common:master-dev
+
 > run webSocket server
 #php examples/websocket-server.php
 
