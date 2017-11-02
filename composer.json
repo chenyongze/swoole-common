@@ -8,10 +8,12 @@
         }
     ],
     "require": {
+        "elasticsearch/elasticsearch": "^5.3"
     },
     "autoload": {
         "psr-4": {
-            "Yongze\\swoole\\": "./src"
+            "Yongze\\swoole\\": "./src",
+            "Swoole\\Async\\": "src/Async"
         }
 
     }
