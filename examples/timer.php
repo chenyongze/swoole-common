@@ -12,3 +12,19 @@ swoole_timer_tick(2000, function ($timer_id) {
     echo "tick-2000ms - {$date} \n";
 
 });
+
+
+$taskId =swoole_timer_after(3000, function () {
+    echo "after 3000ms.\n";
+});
+
+
+echo $taskId;
+
+
+//do
+//{
+//    $date = date('Y-m-d H:i:s');
+//    echo "while-2000ms - {$date} \n";
+//    sleep(3);
+//}while(true);
